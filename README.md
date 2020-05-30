@@ -24,7 +24,10 @@ python3 manage.py migrate
 
 python3 manage.py runserver
 
-
+Django Admin Credentials and URL:
+URL: https://flt-assignment.herokuapp.com/admin/
+email:abhijit
+password:password
 
 
 Loading Initial data:
