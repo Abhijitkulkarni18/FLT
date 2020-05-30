@@ -4,9 +4,7 @@ URL: https://flt-assignment.herokuapp.com/swagger/
 
 
 
-Base Url:
-
-URL: https://flt-assignment.herokuapp.com/api/
+Base Url: https://flt-assignment.herokuapp.com/api/
 
 
 Git Repository Link: https://github.com/Abhijitkulkarni18/FLT
