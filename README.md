@@ -39,3 +39,5 @@ Loading Initial data in Heroku:
 heroku run python3 manage.py loaddata user_data.json
 
 heroku run python3 manage.py loaddata activity_data.json
+
+For more info about me, please visit: https://abhijitkulkarni.herokuapp.com/ 
