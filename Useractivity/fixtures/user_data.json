@@ -1,0 +1,14 @@
+[
+    {"model": "Useractivity.user", "pk": "W012A3CDE",
+        "fields":{
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles"
+        }
+    },
+    {"model": "Useractivity.user", "pk": "W07QCRPA4",
+        "fields":{
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles"
+        }
+    }
+]
