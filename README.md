@@ -1,7 +1,4 @@
-Swagger Link:
-
-URL: https://flt-assignment.herokuapp.com/swagger/
-
+Swagger Link: https://flt-assignment.herokuapp.com/swagger/
 
 
 Base Url: https://flt-assignment.herokuapp.com/api/
