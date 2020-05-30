@@ -95,7 +95,6 @@ WSGI_APPLICATION = 'Assignment.wsgi.application'
 IS_HEROKU = os.environ.get('IS_HEROKU', None)
 
 if IS_HEROKU:
-    NORMAL_HOSTING_URL = os.environ.get('NORMAL_HOSTING_URL', None)
     import django_heroku
     django_heroku.settings(locals())
 
